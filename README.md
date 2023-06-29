@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Arnold-Mags/Arnold-Mags/blob/main/banner.jpg)
+![Design and Development](https://github.com/Arnold-Mags/Arnold-Mags/blob/main/AR.jpg)
 
 ### Hi there 👋, my name is ARNOLD!
 
